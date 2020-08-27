@@ -1,0 +1,26 @@
+h2 {
+  color: blue;
+  text-align: center;
+}
+
+.item {
+  color: #00b1ac;
+}
+
+.delete {
+  margin-bottom: 20px;
+}
+
+#create-task {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+}
+
+.add {
+  margin-left: 30px;
+}
